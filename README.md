@@ -11,7 +11,7 @@ All about me
 
 ### Happy to see you here! &nbsp;
 
-Here’s a clean and professional “About Me” section for your GitHub and LinkedIn:
+
 
 Hello, I’m Enjamul Hoque, a fresher Data Analyst passionate about turning raw data into meaningful insights and interactive dashboards.
 
